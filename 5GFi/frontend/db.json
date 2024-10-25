@@ -1,0 +1,48 @@
+{
+  "organization": [
+    {
+      "id": "1944",
+      "termsAccepted": true,
+      "first_name": "Dhananjay",
+      "last_name": "Nanaware",
+      "organization_email": "dhananjay.nanaware@reaktr.ai",
+      "password": "Welcome@2024#4",
+      "organization_name": "Exelaonline",
+      "organizationDetails": "Reaktr",
+      "organization_address": "Pune",
+      "contact": "988184846"
+    },
+    {
+      "id": "91e6",
+      "termsAccepted": true,
+      "first_name": "",
+      "last_name": "",
+      "organization_email": "akshay.deokar@reaktr.ai",
+      "password": "",
+      "organization_name": "",
+      "organizationDetails": "",
+      "organization_address": "",
+      "contact": ""
+    }
+  ],
+  "tenant": [
+    {
+      "id": "1",
+      "email": "dhananjay.nanaware@reaktr.ai",
+      "password": "Welcome@2024#4",
+      "verificationCode": "199463",
+      "isAuthenticated": true,
+      "confirmPassword": "Welcome@2024#4"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "email": "dhananjay.nanaware@reaktr.ai",
+      "password": "Welcome@2024#4",
+      "verificationCode": "199463",
+      "isAuthenticated": true,
+      "confirmPassword": "Welcome@2024#4"
+    }
+  ]
+}
